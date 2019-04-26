@@ -1,0 +1,20 @@
+{
+  "name": "styled-ui-components-example",
+  "homepage": "https://rkhayat.github.io/styled-ui-components",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "prop-types": "^15.6.2",
+     "react": "link:../node_modules/react",
+    "react-dom": "link:../node_modules/react-dom",
+    "styled-components": "link:../node_modules/styled-components",
+    "styled-ui-components": "link:.."
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
