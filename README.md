@@ -13,14 +13,12 @@ npm install --save styled-components-kit
 ## Usage
 
 ```jsx
-import React, { Component } from 'react'
-
-import MyComponent from 'styled-components-kit'
+import {Button} from 'styled-components-kit'
 
 class Example extends Component {
   render () {
     return (
-      <MyComponent />
+      <Button>Hello</Button>
     )
   }
 }

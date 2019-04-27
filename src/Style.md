@@ -44,7 +44,7 @@ _Button
 } from 'components'
 
 <ButtonGroup css={` 
-  ${Button["Grid"]} {
+  ${_Button["Grid"]} {
     background:tomato;
   }`>
     <Button>Hello</Button>
