@@ -9,7 +9,9 @@
 ```bash
 npm install --save styled-components-kit
 ```
+[Docs - storybook](https://rkhayat.github.io/styled-components-kit/?path=/story/welcome--introduction)
 
+[Codesandbox](https://codesandbox.io/s/n1w52xk27j)
 ## Usage
 
 ```jsx
