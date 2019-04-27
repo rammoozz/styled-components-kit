@@ -1,6 +1,6 @@
 # Paper
 ```js
-import {Paper} from 'styled-ui-components';
+import {Paper} from 'styled-components-kit';
 ```
 
 ## Examples

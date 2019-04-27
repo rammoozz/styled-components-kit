@@ -1,6 +1,6 @@
 # AppBar
 ```js
-import {AppBar} from 'styled-ui-components';
+import {AppBar} from 'styled-components-kit';
 ```
 
 ## Examples

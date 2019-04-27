@@ -1,4 +1,4 @@
 # Introduction
 
-styled-ui-components
+styled-components-kit
 

@@ -1,6 +1,6 @@
 {
-  "short_name": "styled-ui-components",
-  "name": "styled-ui-components",
+  "short_name": "styled-components-kit",
+  "name": "styled-components-kit",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",

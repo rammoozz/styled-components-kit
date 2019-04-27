@@ -2,7 +2,7 @@
 
 
 ```js
-import { createTheme } from 'styled-ui-components'
+import { createTheme } from 'styled-components-kit'
 import { ThemeProvider } from 'styled-components'
 
 const defaultTheme = createTheme()

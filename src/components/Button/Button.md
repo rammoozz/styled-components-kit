@@ -1,6 +1,6 @@
 # Button
 ```js
-import {Button} from 'styled-ui-components';
+import {Button} from 'styled-components-kit';
 ```
 
 ## Examples

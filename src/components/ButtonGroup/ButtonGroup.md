@@ -1,6 +1,6 @@
 # ButtonGroup
 ```js
-import {ButtonGroup} from 'styled-ui-components';
+import {ButtonGroup} from 'styled-components-kit';
 ```
 
 ## Examples

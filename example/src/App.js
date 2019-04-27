@@ -6,7 +6,7 @@ import {
   AppBar,
   ButtonGroup,
   createTheme
-} from "styled-ui-components";
+} from "styled-components-kit";
 
 const compactTheme = createTheme({ spacing: { unit: 4 } });
 const darkTheme = createTheme({ type: "dark" });

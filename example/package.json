@@ -1,6 +1,6 @@
 {
-  "name": "styled-ui-components-example",
-  "homepage": "https://rkhayat.github.io/styled-ui-components",
+  "name": "styled-components-kit-example",
+  "homepage": "https://rkhayat.github.io/styled-components-kit",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
@@ -9,7 +9,7 @@
      "react": "link:../node_modules/react",
     "react-dom": "link:../node_modules/react-dom",
     "styled-components": "link:../node_modules/styled-components",
-    "styled-ui-components": "link:.."
+    "styled-components-kit": "link:.."
   },
   "scripts": {
     "start": "react-scripts start",
