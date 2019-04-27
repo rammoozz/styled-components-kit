@@ -3,7 +3,7 @@
 (via [styled-components](https://www.styled-components.com/docs/api#styled))
 
 ```js
-import { Button } from 'components'
+import { Button } from 'styled-components-kit'
 import styled from 'styled-components'
 
 const SButton = styled(Button)`
