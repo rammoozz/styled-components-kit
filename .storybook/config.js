@@ -8,7 +8,7 @@ import { ThemeProvider } from "styled-components";
 addParameters({
   options: {
     url: "https://github.com/rkhayat/styled-components-kit",
-    name: "components",
+    name: "styled-components-kit",
     sortStoriesByKind: true,
     addonPanelInRight: true,
     rootSeparator: /\|/,

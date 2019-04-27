@@ -19,7 +19,7 @@ const SButton = styled(Button)`
 (via [styled-components](https://www.styled-components.com/docs/api#css))
 
 ```js
-import { Button } from "components";
+import { Button } from "styled-components-kit";
 
 <Button
   css={`
@@ -41,7 +41,7 @@ import {
 ButtonGroup,
 Button,
 _Button
-} from 'components'
+} from 'styled-components-kit'
 
 <ButtonGroup css={` 
   ${_Button["Grid"]} {
